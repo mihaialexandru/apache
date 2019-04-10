@@ -70,7 +70,7 @@ ENV MYSQL_DB=automosmobile
 ENV MYSQL_HOST=mysql
 ENV MYSQL_USER=mosu
 ENV MYSQL_PASS=123
-
+#ENV APACHE_SERVER_NAME=localhost
 
 COPY . /app/public
 VOLUME /app/public
