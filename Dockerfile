@@ -73,7 +73,7 @@ ENV MYSQL_PASS=123
 
 
 COPY . /app/public
-VOLUME /app/public
+VOLUME /app/public/
 
 EXPOSE 80
 ENTRYPOINT ["/bootstrap/start.sh"]
