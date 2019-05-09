@@ -155,3 +155,4 @@ RUN chown -R apache:apache /app
 ## Where Do I Put My Files
 
 Hmmm... you can place them in the /app folder, your application should be placed in the /app folder with public access being pushed through to /app/public. This alloows you to have your src files and other outside the public directory.
+test 09-05
