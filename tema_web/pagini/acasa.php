@@ -38,7 +38,7 @@
 				echo "<li class='userclass'><a href='#'>Bun venit!</a></li>" ;
 				echo "<li class='current'><a href='acasa.php'>Acasa</a></li>";
 				echo "<li><a href='contact.php'>Contact</a></li>";
-				echo "<li><a href='login.php?message=Introduceti credentialele!'>Login</a> ";
+				echo "<li><a href='login.php?message=Introduceti credentialele!'>Logare</a> ";
 				echo "</li>";
 			}
 		?>
